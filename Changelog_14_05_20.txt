@@ -1,0 +1,22 @@
+vom 14.05.2020
+	-restliche Seiten mit Wahlkampfthemen und grobe Auflistung auf der Startseite
+	-Liste der Anträge in zwei Versionen. Bitte dazu Feedback an mich was besser aussieht
+
+vom 05.05.2020
+	-Wahlprogrammliste auf der Startseite mit vorhandenen Daten
+	-Seiten für die einzelnen Wahlkampfthemen
+	-Möglichkeit über fabianbrink.github.io sich den aktuellen Stand anzusehen
+
+vom 24.04.2020
+	-Auflistung der Mitglieder
+	-Wahlkampfpunkte unter 'home' (index) bei "Wir stehen für ..."
+	-Auflistung der Wahlkreiskandidaten
+	-Profil der Wahlkreiskandidaten
+
+Mir fehlt konkreter Input für
+-mehr bei 'Mitglieder'
+-Profil der Wahlkreiskandidaten (am liebsten wie bei Manfred Mensing)
+-Generell Bilder und Fotos für die Seite
+-Social Media (falls vorhanden))
+-komplette Liste wer in der Liste Mitglieder stehen soll
+-komplette Liste wer hier welche Funktion hat/in welchen Ausschüssen steht
